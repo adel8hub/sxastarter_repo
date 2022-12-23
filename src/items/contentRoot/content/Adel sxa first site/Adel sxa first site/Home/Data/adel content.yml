@@ -1,0 +1,32 @@
+﻿---
+ID: "b10c8e0d-b0d1-4b54-ab98-81a49a65ae24"
+Parent: "aa57508f-4ea3-4513-a647-5633fe964fc6"
+Template: "65a05f4c-cafa-4e4f-8211-fcbc422191fc"
+Path: /sitecore/content/Adel sxa first site/Adel sxa first site/Home/Data/adel content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221223T155639Z
+    - ID: "8798de92-8c21-4d82-b327-abdef0c0db40"
+      Hint: body
+      Value: <em>Insert here your content WYSWYG</em>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "875cc71c-0d82-4175-a37c-6ac39a2566d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adiilel.halouty@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221223T160050Z
+    - ID: "e8fb1263-1ba1-43c6-abb8-4cc45fda9728"
+      Hint: heading
+      Value: adel content

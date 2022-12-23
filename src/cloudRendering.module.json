@@ -1,0 +1,29 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "XM Cloud demo",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/Templates/Project/Adel sxa first site",
+                "allowedPushedOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content",
+                "allowedPushedOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/Media Library/Project/Adel sxa first site",
+                "allowedPushedOperations": "CreateUpdateAndDelete"        
+            }
+            ,
+            {
+                "name": "custom rendering",
+                "path": "/sitecore/layout/Renderings/Project",
+                "allowedPushedOperations": "CreateUpdateAndDelete"        
+            }
+        ]
+    }
+}
