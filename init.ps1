@@ -104,7 +104,8 @@ Add-HostsEntry "www.sxastarter.localhost"
 # Generate scjssconfig
 ###############################
 
-Set-EnvFileVariable "JSS_DEPLOYMENT_SECRET_xmcloudpreview" -Value $xmCloudBuild.renderingHosts.xmcloudpreview.jssDeploymentSecret
+# Set-EnvFileVariable "JSS_DEPLOYMENT_SECRET_xmcloudpreview" -Value $xmCloudBuild.renderingHosts.xmcloudpreview.jssDeploymentSecret
+Set-EnvFileVariable "JSS_DEPLOYMENT_SECRET_xmcloudpreview" -Value "110F1C44A496B45478640DD36F80C18C9"
 
 ################################
 # Generate Sitecore Api Key

@@ -1,0 +1,41 @@
+﻿---
+ID: "d8dafc0f-e478-4c36-8954-bd9e80c8dccf"
+Parent: "65a05f4c-cafa-4e4f-8211-fcbc422191fc"
+Template: "65a05f4c-cafa-4e4f-8211-fcbc422191fc"
+Path: /sitecore/templates/Project/Adel sxa first site/FirstComponent/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/tree 2.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221223T155216Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\adiilel.halouty@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\adiilel.halouty@sitecore.com
+    - ID: "8798de92-8c21-4d82-b327-abdef0c0db40"
+      Hint: body
+      Value: <em>Insert here your content</em>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ae3006b-4f58-4e9d-8cf1-21ea0ec08647"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adiilel.halouty@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221223T155402Z
+    - ID: "e8fb1263-1ba1-43c6-abb8-4cc45fda9728"
+      Hint: heading
+      Value: $name
